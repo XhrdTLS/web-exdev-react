@@ -1,12 +1,13 @@
-import Navbar from "./Navbar";
 import "./App.css";
+import "./Inicio.tsx";
+import Inicio from "./Inicio.tsx";
 
 function App() {
   return (
     <>
-      <header className="fixed w-screen h-28 ">
-        <Navbar />
-      </header>
+      <body>
+        <Inicio />
+      </body>
     </>
   );
 }
