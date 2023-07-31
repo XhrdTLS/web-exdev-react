@@ -1,13 +1,9 @@
-import "./App.css";
-import "./Inicio.tsx";
-import Inicio from "./Inicio.tsx";
+import Inicio from "./pages/Inicio.tsx";
 
 function App() {
   return (
     <>
-      <body>
-        <Inicio />
-      </body>
+      <Inicio />
     </>
   );
 }
