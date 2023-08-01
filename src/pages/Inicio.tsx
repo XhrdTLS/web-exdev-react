@@ -1,4 +1,4 @@
-export default function Inicio() {
+export const Inicio = () => {
   return (
     <section className="bg-slate-700 my-6 mx-10 rounded-2xl h-screen relative image">
       <div className="flex flex-col items-center justify-center h-full gap-14">
@@ -16,4 +16,4 @@ export default function Inicio() {
       </div>
     </section>
   );
-}
+};
