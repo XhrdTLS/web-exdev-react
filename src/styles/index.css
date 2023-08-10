@@ -32,7 +32,7 @@ body {
 
 /** Hero **/
 .image {
-  background-image: url("../public/images.jpeg");
+  background-image: url("/images.jpeg");
   background-size: cover;
   background-repeat: no-repeat;
   background-position: center;

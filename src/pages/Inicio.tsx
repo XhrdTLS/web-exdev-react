@@ -14,11 +14,7 @@ export const Inicio = () => {
         <section className="w-full flex justify-center">
           <picture className="w-20 bg-[#0097A9] rounded-full border-8 border-[#F1F1F1] hover:scale-105 ease-in duration-100 translate-y-10">
             <a href="#">
-              <img
-                src="../../public/arrow-down.svg"
-                alt=""
-                className="w-full"
-              />
+              <img src="/arrow-down.svg" alt="" className="w-full" />
             </a>
           </picture>
         </section>
