@@ -8,15 +8,21 @@ export const Navbar = () => {
           <img src={LogoExdev} alt="logo" className="w-52" />
         </picture>
       </a>
-      <ul className="flex gap-20 justify-center items-center font-medium text-lg">
+      <ul className="flex gap-20 justifsy-center items-center font-medium text-lg">
         <li>
-          <a href="#">Inicio</a>
+          <a href="#" className="py-4">
+            Inicio
+          </a>
         </li>
         <li>
-          <a href="#">Proyectos</a>
+          <a href="#" className="py-4">
+            Proyectos
+          </a>
         </li>
         <li>
-          <a href="#">Contacto</a>
+          <a href="#" className="py-4">
+            Contacto
+          </a>
         </li>
       </ul>
       <div className="flex items-center">
