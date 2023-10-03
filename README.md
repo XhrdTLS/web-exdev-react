@@ -23,4 +23,4 @@ Definir la finalidad y dar una breve explicacion del proyecto
 - Victor Ubeda
 - Victor Venegas
 
-**Diseño en Figma [aqui](https://www.figma.com/file/IE3nweyeMdpZpoLuf3ffVZ/Web-Design?type=design&node-id=18%3A502&t=NgxL9FvarKwweSnq-1)**
+**Diseño en Figma [aqui](https://www.figma.com/file/ehEs45Wptl4FoxMLopT2BA/Maquetado?type=design&node-id=1-62&mode=design&t=tJM1REzyzroAKvXO-0)**
