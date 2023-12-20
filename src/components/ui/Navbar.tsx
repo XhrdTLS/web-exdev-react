@@ -19,6 +19,7 @@ export const Navbar = () => {
         </div>
         <ul className={`navbar__menu ${menuActive}`}>
           <NavLink to="/home" className="navbar__item">
+            <i className="fa-solid fa-house icons"></i>
             Inicio
           </NavLink>
           <NavLink to="/home" className="navbar__item">

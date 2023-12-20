@@ -1,5 +1,5 @@
 .navbar {
-  background-color: var(--bg-300);
+  background-color: var(--color-principal);
   color: var(--blanco);
   box-shadow: rgba(0, 0, 0, 0.16) 0px 1px 4px;
   width: 100%;
@@ -8,7 +8,7 @@
 }
 
 .navbar__logo {
-  margin-left: 2rem;
+  margin-left: 1rem;
   font-size: 2rem;
   font-weight: bold;
   text-decoration: none;

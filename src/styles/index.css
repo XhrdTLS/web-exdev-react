@@ -37,3 +37,8 @@ html {
   color: var(--color-blanco);
   font-size: 1.6rem;
 }
+
+.icons {
+  padding: 0.5rem;
+  padding-top: 0rem;
+}
